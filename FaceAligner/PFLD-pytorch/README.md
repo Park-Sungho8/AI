@@ -9,7 +9,7 @@ WFLW 데이터 셋: https://wywu.github.io/projects/LAB/WFLW.html
 
 
 ## Structure
-![pfld1](image/pdlf.png)
+![pfld1](FaceAligner/PFLD-pytorch/image/pfld.png)
 
 ## Evaluation Result
 
